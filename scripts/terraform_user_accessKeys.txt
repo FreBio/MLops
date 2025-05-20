@@ -1,0 +1,17 @@
+{
+    "AccessKey": {
+        "UserName": "fred01",
+        "AccessKeyId": "AKIASJIQ5S76QAWUKC6T",
+        "Status": "Active",
+        "SecretAccessKey": "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",
+        "CreateDate": "2025-05-20T12:28:38+00:00"
+    }
+}
+
+
+
+OLDERS ONES:
+Access Key: AKIASJIQ5S7625EMPRPN
+Secret Access Key: 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
+Access Key: AKIASJIQ5S76XELI2RMP
+Secret Access Key: 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
