@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/fre/TerraformProjects/mlops-course/src/mlruns/447593145793622837/d6381f8068484f13ad3f2d829cae9117/artifacts
+end_time: 1748351050356
+entry_point_name: ''
+experiment_id: '447593145793622837'
+lifecycle_stage: active
+run_id: d6381f8068484f13ad3f2d829cae9117
+run_name: likeable-tern-919
+run_uuid: d6381f8068484f13ad3f2d829cae9117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748351047448
+status: 3
+tags: []
+user_id: fre

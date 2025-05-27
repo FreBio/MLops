@@ -1,0 +1,6 @@
+artifact_location: file:///Users/fre/TerraformProjects/mlops-course/src/mlruns/447593145793622837
+creation_time: 1748351046858
+experiment_id: '447593145793622837'
+last_update_time: 1748351046858
+lifecycle_stage: active
+name: Model Training Experiment

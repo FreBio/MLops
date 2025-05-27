@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748351050355
+current_stage: None
+description: null
+last_updated_timestamp: 1748351050355
+name: insurance_model
+run_id: d6381f8068484f13ad3f2d829cae9117
+run_link: null
+source: file:///Users/fre/TerraformProjects/mlops-course/src/mlruns/447593145793622837/d6381f8068484f13ad3f2d829cae9117/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/fre/TerraformProjects/mlops-course/src/mlruns/447593145793622837/d6381f8068484f13ad3f2d829cae9117/artifacts/model
+user_id: null
+version: 1
